@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## About Project
 
-This project is a starting point for a Flutter application.
+This project is one of the first Flutter application i build with Dr Angela's Udemy course.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
